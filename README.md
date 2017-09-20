@@ -10,7 +10,7 @@ This code is written in Jupyter Notebook, which is an open-source web applicatio
 
 After installing, launching the jupyter notebook by running by typing in a terminal:
 ```
-jupyter noteboo
+jupyter notebook
 ```
 and find your target folder. Or you can 'cd' to your target folder in the terminal and then type 'jupyter notebook' command.
 
