@@ -22,6 +22,11 @@ Once it's done, please follow the following steps to run this code.
 ```
 pip install -r requirement.txt
 ```
+##### if it's not successful, you may try install the dependancies mannually by:
+1. Run a terminal(type in ```cmd``` in the search field under start menu)
+2. type in ``` pip install matplotlib ``` Enter
+3. type in ``` pip install keras ``` Enter
+4. type in ``` pip install sklearn ``` Enter
 
 This should install all dependancies.
 
