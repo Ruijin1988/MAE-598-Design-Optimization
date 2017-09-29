@@ -8,11 +8,11 @@ Convolutional Neural Network(CNN).
 #### Jupyter Notebook
 This code is written in Jupyter Notebook, which is an open-source web application that allows you to create and share documents that contain live code, please download and install it. For new users we highly recommend installing [Anaconda](https://www.anaconda.com/download/)(Python 3.6 version). 
 
-After installing, launching the jupyter notebook by typing in terminal:
+After installing, launching the jupyter notebook by typing in ```anaconda prompt``` in the search field under start menu and then type in:
 ```
 jupyter notebook
 ```
-and find your target folder. Or you can 'cd' to your target folder in the terminal and then type 'jupyter notebook' command.
+and find your target folder. Or you can 'cd' to your target folder in the terminal and then type ```jupyter notebook``` command.
 
 Once it's done, please follow the following steps to run this code.
 1. Download this repo
