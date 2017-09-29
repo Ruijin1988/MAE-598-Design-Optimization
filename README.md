@@ -15,8 +15,8 @@ jupyter notebook
 and find your target folder. Or you can 'cd' to your target folder in the terminal and then type ```jupyter notebook``` command.
 
 Once it's done, please follow the following steps to run this code.
-1. Download this repo
-2. Install TensorFlow [CPU version](https://www.tensorflow.org/install/)
+1. Install TensorFlow [CPU version](https://www.tensorflow.org/install/)
+2. Download this repo
 3. Once done, use the terminal to go to the folder where you hold this code, type in
 
 ```
